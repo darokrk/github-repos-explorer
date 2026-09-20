@@ -1,0 +1,9 @@
+node_modules/
+yarn.lock
+vendor/
+docs/screenshots/
+
+ios/Pods/
+ios/**/*.xcassets/
+android/app/build/
+android/.gradle/
